@@ -43,64 +43,64 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "eba207cb-0d41-4234-87a6-ef2cfafcf17c",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKvFI7p.png",
+	 "title": "PlayMods Tips Android 1",
+	 "text": "Create an app that provides tips, tricks, and strategies for popular mobile games. Users can search for the game they're playing and get information on how to level up, unlock achievements, and improve their gameplay.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKvFz2R.png",
+	 "title": "PlayMods Tips Android 2",
+	 "text": "Develop an app that offers tips for optimizing Android devices. This could include advice on extending battery life, managing storage, and improving overall device performance.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKvFqLg.webp",
+	 "title": "PlayMods Tips Android 3",
+	 "text": " Provide users with suggestions for the best Android apps and games across various categories. You could include reviews, ratings, and brief descriptions for each recommendation.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKvFnEJ.webp",
+	 "title": "PlayMods Tips Android 4",
+	 "text": "Create an app that curates and categorizes tutorial videos for different Android games or apps. Users can watch video guides to learn how to use specific features or excel in games.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKvFnEJ.webp",
+	 "title": "PlayMods Tips Android 5",
+	 "text": "Allow users to rate and review Android apps and games. Provide a platform where users can share their experiences and read others' opinions before downloading an app.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKvForv.webp",
+	 "title": "PlayMods Tips Android 6",
+	 "text": "Keep users informed about the latest updates and news related to Android apps, games, and the Android operating system.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
